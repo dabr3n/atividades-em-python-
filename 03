@@ -1,0 +1,8 @@
+// 3. Faça um Programa que peça dois números e imprima a soma.
+
+print("Informe valor a:")
+a = int(input())
+print("Informe valor b:")
+b = int(input())
+soma = a+b
+print("A soma é:", soma)
