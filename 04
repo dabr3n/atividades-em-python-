@@ -1,0 +1,12 @@
+// 4. Faça um programa que peça as 4 notas bimestrais e mostre a média.
+
+print("Informe valor a:")
+a = float(input())
+print("Informe valor b:")
+b = float(input())
+print("Informe valor c:")
+c = float(input())
+print("Informe o valor d:")
+d = float(input())
+soma = (a+b+c+d)/4
+print("A soma das notas é:", soma)
