@@ -1,0 +1,6 @@
+// 6. Faça um programa que peça o raio de um círculo, calcule e mostre sua área.
+
+r = float(input("Digite o raio: "))
+p = 3.14 
+print (“O resultado é”)
+print(p*(r*r*r))
