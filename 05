@@ -1,0 +1,6 @@
+5. Faça um programa que converta metros para centímetros.
+
+print("Informe valor em metros:")
+metros = float(input())
+centimetros = metros*100
+print(metros,"O valor em centimetros é:", centimetros)
